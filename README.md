@@ -24,7 +24,7 @@ Antes de começar, certifique-se de que você tenha o Go instalado em sua máqui
      ```sh
          go mod tidy
 
-4. **Compile e use **
+4. **Compile e use**
 
      ```sh
        go build -o /app
